@@ -1,0 +1,72 @@
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\Log In.exe.config
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\Log In.exe
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\Log In.pdb
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log In.csprojAssemblyReference.cache
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.Form1.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.Properties.Resources.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log In.csproj.GenerateResource.cache
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log In.csproj.CoreCompileInputs.cache
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log In.csproj.CopyComplete
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log In.exe
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log In.pdb
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\MetroFramework.dll
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.Registration.resources
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\System.Security.Permissions.dll
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\System.Security.Permissions.xml
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Octavian\source\repos\Log In\Log In\bin\Debug\MetroFramework.Design.dll
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.Interface.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.ForgetPassword.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.Rooms.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.Room1.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.Reservation.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.Account.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.AdminInterface.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.Calculator.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.History.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.Contact.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.ReservesAdminInterface.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.AccountsAdminInterface.resources
+C:\Users\Octavian\source\repos\Log In\Log In\obj\Debug\Log_In.XMLImport.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\Log In.exe.config
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\Log In.exe
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\Log In.pdb
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\MetroFramework.Design.dll
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\MetroFramework.dll
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\System.Security.Permissions.dll
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\System.Security.Permissions.xml
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log In.csprojAssemblyReference.cache
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.Account.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.AccountsAdminInterface.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.AdminInterface.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.Calculator.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.Contact.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.ForgetPassword.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.History.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.Interface.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.Form1.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.Properties.Resources.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.Registration.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.Reservation.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.ReservesAdminInterface.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.Room1.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.Rooms.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log_In.XMLImport.resources
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log In.csproj.GenerateResource.cache
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log In.csproj.CoreCompileInputs.cache
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log In.csproj.CopyComplete
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log In.exe
+C:\Users\Octavian\Desktop\Hotel Management Application\Log In\Log In\obj\Debug\Log In.pdb
